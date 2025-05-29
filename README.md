@@ -56,6 +56,8 @@ Successfully completed stack projects 00-12
 - User Stories
 - Description of User Stories
 - User Stories Coordination
+- 3C
+- INVEST
 
 ### Project 08 (UseCase)
 - Use Cases
