@@ -1,7 +1,7 @@
 # Business-and-systems-analytics
 This contains my works, completed within the framework of mastering the Business and System Analytics stack
 
-Successfully completed stack projects 00-12
+Successfully completed stack projects 00-13
 
 ## Brief description of projects (competencies to be mastered)
 
@@ -94,3 +94,10 @@ Successfully completed stack projects 00-12
 - Availability and Reliability Attributes
 - Scalability Attributes
 - Security Attributes
+
+### Project 13 (RequirementsManagements)
+- Requirements Management
+- Testing
+- Task Management
+- Identification of Requirements Types
+- Positive and Negative Test Cases
