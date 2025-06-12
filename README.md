@@ -1,7 +1,7 @@
 # Business-and-systems-analytics
 This contains my works, completed within the framework of mastering the Business and System Analytics stack
 
-Successfully completed stack projects 00-13
+Successfully completed stack projects 00-14
 
 ## Brief description of projects (competencies to be mastered)
 
@@ -101,3 +101,17 @@ Successfully completed stack projects 00-13
 - Task Management
 - Identification of Requirements Types
 - Positive and Negative Test Cases
+
+### Project 14 (SystemIntegration)
+- Integration of IT Systems
+- General Concepts of Integration
+- Need of Integration
+- Integration Criteria
+- Integration Styles
+- Data Flow Identification
+- Master Systems Identification
+- Recipient Systems Identification
+- Data Dictionary
+- Integration Scenarios Description
+- Define Volume and Quantity Requirements for Data Flows
+- Determining Frequency and Timing for Data Flows
