@@ -115,3 +115,10 @@ Successfully completed stack projects 00-14
 - Integration Scenarios Description
 - Define Volume and Quantity Requirements for Data Flows
 - Determining Frequency and Timing for Data Flows
+
+### Project 15 (REST)
+
+- REST: Basic Concepts
+- Documentation
+- Mapping
+- Error Handling
