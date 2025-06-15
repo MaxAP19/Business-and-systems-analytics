@@ -1,7 +1,7 @@
 # Business-and-systems-analytics
 This contains my works, completed within the framework of mastering the Business and System Analytics stack
 
-Successfully completed stack projects 00-14
+Successfully completed stack projects 00-15
 
 ## Brief description of projects (competencies to be mastered)
 
